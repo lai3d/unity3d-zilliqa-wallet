@@ -12,26 +12,26 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 0001-01-01T00:00:00.000+00:00
-  initializedAtString: 0001-01-01T00:00:00.000+00:00
+  lastUpdatedAtString: 2018-06-27T18:32:44.861+08:00
+  initializedAtString: 2018-06-25T17:31:18.295+08:00
   currentGitRemote:
-    name: 
-    url: 
+    name: origin
+    url: https://github.com/jonas0110/unity3d-zilliqa-wallet.git
     login: 
     user: 
     host: 
     function: 0
     token: 
   currentGitBranch:
-    name: 
-    tracking: 
+    name: master
+    tracking: origin/master
   currentConfigBranch:
-    name: 
+    name: master
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://github.com/jonas0110/unity3d-zilliqa-wallet.git
+    trackingBranch: master
   currentConfigRemote:
-    name: 
-    url: 
-  currentHead: 
+    name: origin
+    url: https://github.com/jonas0110/unity3d-zilliqa-wallet.git
+  currentHead: ec713e7
